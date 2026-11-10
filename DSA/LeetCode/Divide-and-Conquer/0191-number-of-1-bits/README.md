@@ -8,7 +8,7 @@
 | **Language** | Python |
 | **Topics** | Divide and Conquer, Bit Manipulation |
 | **Link** | [https://leetcode.com/problems/number-of-1-bits/](https://leetcode.com/problems/number-of-1-bits/) |
-| **Submitted** | 2026-11-07 · submission `2191239759` |
+| **Submitted** | 2026-11-10 · submission `2192962613` |
 
 ## Solution
 
