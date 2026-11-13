@@ -5,7 +5,7 @@
 
 The Blind 75: the classic list of 75 LeetCode problems that cover the core interview patterns.
 
-**10 / 75 solved** (13%)
+**11 / 75 solved** (15%)
 
 `███░░░░░░░░░░░░░░░░░`
 
@@ -18,7 +18,7 @@ The Blind 75: the classic list of 75 LeetCode problems that cover the core inter
 | Interval | 0 / 5 |
 | Linked List | 0 / 6 |
 | Matrix | 0 / 4 |
-| String | 3 / 10 |
+| String | 4 / 10 |
 | Tree | 0 / 14 |
 | Heap | 1 / 2 |
 
@@ -92,10 +92,10 @@ The Blind 75: the classic list of 75 LeetCode problems that cover the core inter
 - [ ] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [ ] [79. Word Search](https://leetcode.com/problems/word-search/)
 
-### String (3/10)
+### String (4/10)
 
 - [x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) · [my solution](Hash-Table/0003-longest-substring-without-repeating-characters/)
-- [ ] [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [x] [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) · [my solution](Hash-Table/0424-longest-repeating-character-replacement/)
 - [ ] [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
@@ -127,7 +127,7 @@ The Blind 75: the classic list of 75 LeetCode problems that cover the core inter
 - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) · [my solution](Array/0347-top-k-frequent-elements/)
 - [ ] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-Problems in this repository: **10** (0 outside the Blind 75).
+Problems in this repository: **11** (0 outside the Blind 75).
 
 _Ticked automatically by CodeSync from the folders in this repository, on every accepted submission._
 <!-- codesync:blind75:end -->
