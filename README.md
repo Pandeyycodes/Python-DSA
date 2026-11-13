@@ -5,13 +5,13 @@
 
 The Blind 75: the classic list of 75 LeetCode problems that cover the core interview patterns.
 
-**9 / 75 solved** (12%)
+**10 / 75 solved** (13%)
 
-`██░░░░░░░░░░░░░░░░░░`
+`███░░░░░░░░░░░░░░░░░`
 
 | Topic | Solved |
 |---|---|
-| Array | 4 / 10 |
+| Array | 5 / 10 |
 | Binary | 0 / 5 |
 | Dynamic Programming | 0 / 11 |
 | Graph | 1 / 8 |
@@ -22,10 +22,10 @@ The Blind 75: the classic list of 75 LeetCode problems that cover the core inter
 | Tree | 0 / 14 |
 | Heap | 1 / 2 |
 
-### Array (4/10)
+### Array (5/10)
 
 - [x] [1. Two Sum](https://leetcode.com/problems/two-sum/) · [my solution](Array/0001-two-sum/)
-- [ ] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) · [my solution](Array/0121-best-time-to-buy-and-sell-stock/)
 - [ ] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) · [my solution](Array/0238-product-of-array-except-self/)
 - [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -127,7 +127,7 @@ The Blind 75: the classic list of 75 LeetCode problems that cover the core inter
 - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) · [my solution](Array/0347-top-k-frequent-elements/)
 - [ ] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-Problems in this repository: **9** (0 outside the Blind 75).
+Problems in this repository: **10** (0 outside the Blind 75).
 
 _Ticked automatically by CodeSync from the folders in this repository, on every accepted submission._
 <!-- codesync:blind75:end -->
