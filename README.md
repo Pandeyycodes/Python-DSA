@@ -5,13 +5,13 @@
 
 The Blind 75: the classic list of 75 LeetCode problems that cover the core interview patterns.
 
-**11 / 75 solved** (15%)
+**12 / 75 solved** (16%)
 
 `███░░░░░░░░░░░░░░░░░`
 
 | Topic | Solved |
 |---|---|
-| Array | 5 / 10 |
+| Array | 6 / 10 |
 | Binary | 0 / 5 |
 | Dynamic Programming | 0 / 11 |
 | Graph | 1 / 8 |
@@ -22,7 +22,7 @@ The Blind 75: the classic list of 75 LeetCode problems that cover the core inter
 | Tree | 0 / 14 |
 | Heap | 1 / 2 |
 
-### Array (5/10)
+### Array (6/10)
 
 - [x] [1. Two Sum](https://leetcode.com/problems/two-sum/) · [my solution](Array/0001-two-sum/)
 - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) · [my solution](Array/0121-best-time-to-buy-and-sell-stock/)
@@ -30,7 +30,7 @@ The Blind 75: the classic list of 75 LeetCode problems that cover the core inter
 - [x] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) · [my solution](Array/0238-product-of-array-except-self/)
 - [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
-- [ ] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) · [my solution](Array/0153-find-minimum-in-rotated-sorted-array/)
 - [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [x] [15. 3Sum](https://leetcode.com/problems/3sum/) · [my solution](Array/0015-3sum/)
 - [x] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) · [my solution](Array/0011-container-with-most-water/)
@@ -127,7 +127,7 @@ The Blind 75: the classic list of 75 LeetCode problems that cover the core inter
 - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) · [my solution](Array/0347-top-k-frequent-elements/)
 - [ ] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-Problems in this repository: **11** (0 outside the Blind 75).
+Problems in this repository: **12** (0 outside the Blind 75).
 
 _Ticked automatically by CodeSync from the folders in this repository, on every accepted submission._
 <!-- codesync:blind75:end -->
